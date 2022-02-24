@@ -7,7 +7,11 @@
 <pre style="padding: .66001rem 9.5px 9.5px;line-height: 2rem;background: linear-gradient(to bottom,#fff 0,#fff .75rem,#f5f7fa .75rem,#f5f7fa 2.75rem,#fff 2.75rem,#fff 4rem);background-size: 100% 4rem;border-color: #d3daea;border: 1px solid #ccc;border-radius: 4px;">by 龙泉北校政治组; LonelyMarch</pre>
 
 ## Log ##
-<div style="height:2px;background-color:#333"></div>
+
+##### 2022.02.24
++ 修正&emsp;`t243,t247-t269`
++ 增加&emsp;`p239[左侧和顶部补充题]`
+---
 
 ##### 2022.02.20
 + 修正&emsp;`t217[左侧框架标识]`
