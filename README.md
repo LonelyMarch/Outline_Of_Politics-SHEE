@@ -5,11 +5,6 @@
 > <font face="Microsoft Yahei UI">内部资料，严禁转载</font>
 
 <pre style="padding: .66001rem 9.5px 9.5px;line-height: 2rem;background: linear-gradient(to bottom,#fff 0,#fff .75rem,#f5f7fa .75rem,#f5f7fa 2.75rem,#fff 2.75rem,#fff 4rem);background-size: 100% 4rem;border-color: #d3daea;border: 1px solid #ccc;border-radius: 4px;">by 龙泉北校政治组; LonelyMarch</pre>
-<style>
-h2 {
-    border-bottom: none
-}
-</style>
 
 ## Log ##
 <div style="height:2px;background-color:#333"></div>
