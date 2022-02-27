@@ -6,9 +6,14 @@
 
 <pre style="padding: .66001rem 9.5px 9.5px;line-height: 2rem;background: linear-gradient(to bottom,#fff 0,#fff .75rem,#f5f7fa .75rem,#f5f7fa 2.75rem,#fff 2.75rem,#fff 4rem);background-size: 100% 4rem;border-color: #d3daea;border: 1px solid #ccc;border-radius: 4px;">by 龙泉北校政治组; LonelyMarch</pre>
 
-*希望我的小可爱中考能考高分,耶耶耶!!!*:kissing_heart::kissing_heart::kissing_heart:
+*希望我的小可爱中考能考高分,耶耶耶 !!!*:kissing_heart::kissing_heart::kissing_heart:
 
 ## Log ##
+
+#### 2022.02.27
++ 修正&emsp;`[七年级知识]t14-t15`
++ 修正&emsp;`t212,t219`
+---
 
 #### 2022.02.25
 + 修正&emsp;`t253,t262,t265,t267,t269`
