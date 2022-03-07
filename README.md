@@ -1,6 +1,6 @@
 # <font face="DengXian">政治中考复习巩固提纲</font> #
 
-![Status](https://img.shields.io/badge/status-building-blue)&nbsp;![Build](https://img.shields.io/badge/build-passing-brightgreen)&nbsp;![Licence](https://img.shields.io/badge/licence-private-red)
+[![Build](https://img.shields.io/badge/build-passing-brightgreen.svg)](https://github.com/LonelyMarch/Outline_Of_Politics-SHEE)
 
 > <font face="Microsoft Yahei UI">内部资料，严禁转载</font>
 
@@ -9,6 +9,11 @@
 *希望我的小可爱中考能考高分,耶耶耶 !!!*:kissing_heart::kissing_heart::kissing_heart:
 
 ## Log ##
+
+#### 2022.03.07
++ 修正&emsp;`t286`
++ 修正&emsp;`p31[插图]`
+---
 
 #### 2022.03.04
 + 增加&emsp;`p31[插图]`
@@ -70,4 +75,5 @@
 
 #### 2021.12.31
 + 修正&emsp;`t1-t46`
+
 ---
