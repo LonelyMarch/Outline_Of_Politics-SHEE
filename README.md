@@ -8,6 +8,9 @@
 
 *希望我的小可爱中考能考高分,耶耶耶 !!!*:kissing_heart::kissing_heart::kissing_heart:
 
+## Todo ##
++ `t238`
+
 ## Log ##
 
 #### 2022.03.08
@@ -86,8 +89,8 @@
 
 ---
 
-[status]:.\Resource\status-building-blue.svg
+[status]:https://github.com/LonelyMarch/Outline_Of_Politics-SHEE/tree/master/Resource/status-building-blue.svg
 
-[build]:.\Resource\build-passing-brightgreen.svg
+[build]:https://github.com/LonelyMarch/Outline_Of_Politics-SHEE/tree/master/Resource/Resource/build-passing-brightgreen.svg
 
-[licence]:.\Resource\licence-private-red.svg
+[licence]:https://github.com/LonelyMarch/Outline_Of_Politics-SHEE/tree/master/Resource/Resource/licence-private-red.svg
