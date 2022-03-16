@@ -86,11 +86,10 @@
 
 #### 2021.12.31
 + 修正&emsp;`t1-t46`
-
 ---
 
-[status]:https://github.com/LonelyMarch/Outline_Of_Politics-SHEE/tree/master/Resource/status-building-blue.svg
+[status]:https://github.com/LonelyMarch/Outline_Of_Politics-SHEE/raw/master/Resource/status-building-blue.svg
 
-[build]:https://github.com/LonelyMarch/Outline_Of_Politics-SHEE/tree/master/Resource/Resource/build-passing-brightgreen.svg
+[build]:https://github.com/LonelyMarch/Outline_Of_Politics-SHEE/raw/master/Resource/Resource/build-passing-brightgreen.svg
 
-[licence]:https://github.com/LonelyMarch/Outline_Of_Politics-SHEE/tree/master/Resource/Resource/licence-private-red.svg
+[licence]:https://github.com/LonelyMarch/Outline_Of_Politics-SHEE/raw/master/Resource/Resource/licence-private-red.svg
