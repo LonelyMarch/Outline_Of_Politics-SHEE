@@ -90,6 +90,6 @@
 
 [status]:https://github.com/LonelyMarch/Outline_Of_Politics-SHEE/raw/master/Resource/status-building-blue.svg
 
-[build]:https://github.com/LonelyMarch/Outline_Of_Politics-SHEE/raw/master/Resource/Resource/build-passing-brightgreen.svg
+[build]:https://github.com/LonelyMarch/Outline_Of_Politics-SHEE/raw/master/Resource/build-passing-brightgreen.svg
 
-[licence]:https://github.com/LonelyMarch/Outline_Of_Politics-SHEE/raw/master/Resource/Resource/licence-private-red.svg
+[licence]:https://github.com/LonelyMarch/Outline_Of_Politics-SHEE/raw/master/Resource/licence-private-red.svg
