@@ -4,22 +4,21 @@
 
 > <font face="Microsoft Yahei UI">内部资料，严禁转载</font>
 
-<pre style="padding: .66001rem 9.5px 9.5px;line-height: 2rem;background: linear-gradient(to bottom,#fff 0,#fff .75rem,#f5f7fa .75rem,#f5f7fa 2.75rem,#fff 2.75rem,#fff 4rem);background-size: 100% 4rem;border-color: #d3daea;border: 1px solid #ccc;border-radius: 4px;">by 龙泉北校政治组; LonelyMarch</pre>
+<pre style="font-family: MicrosoftYaHei;margin: 0; padding: .66001rem 9.5px 9.5px;line-height: 2rem;background: linear-gradient(to bottom,#fff 0,#fff .75rem,#f5f7fa .75rem,#f5f7fa 2.75rem,#fff 2.75rem,#fff 4rem);background-size: 100% 4rem;border-color: #d3daea;border: 1px solid #ccc;border-radius: 4px;">by 龙泉北校政治组; LonelyMarch</pre>
 
 *希望我的小可爱中考能考高分,耶耶耶 !!!*:kissing_heart::kissing_heart::kissing_heart:
 
 ## Todo ##
-+ 增加&emsp;`封面`
 + 增加&emsp;`结构框图`
 + 修正&emsp;`字体颜色调教`
 
 ## Log ##
+---
 
 #### 2022.03.18
 + 修正&emsp;`p176[上]`
-+ 增加&emsp;`t196[上]`
++ 增加&emsp;`t196[上],目录,封面`
 + 增加&emsp;`p1[社会发展的根本动力]`
-+ 增加&emsp;`目录`
 ---
 
 #### 2022.03.17
@@ -40,16 +39,13 @@
 ---
 
 #### 2022.03.07
-+ 修正&emsp;`t286`
-+ 修正&emsp;`p31[插图]`
++ 修正&emsp;`t286,p31[插图]`
 ---
 
 #### 2022.03.04
-+ 增加&emsp;`p31[插图]`
-+ 增加&emsp;`t139-t175`
-+ 修正&emsp;`t270-t290`
++ 增加&emsp;`t139-t175,p31[插图]`
++ 修正&emsp;`t270-t290,[全册]字体`
 + 修正&emsp;`t212,t214,t223,t230,t251`
-+ 修正&emsp;`[全册]字体`
 + 删除&emsp;`t41[左],t61[左]`
 ---
 
@@ -75,8 +71,7 @@
 
 #### 2022.02.20
 + 增加&emsp;`p24[为什么要加强宪法监督]`
-+ 修正&emsp;`t220,t221`
-+ 修正&emsp;`[log.md]样式`
++ 修正&emsp;`t220,t221,[log.md]样式`
 ---
 
 #### 2022.02.19
@@ -98,8 +93,7 @@
 ---
 
 #### 2022.01.03
-+ 增加&emsp;`t207-t246`
-+ 增加&emsp;`p32[心中有法]`
++ 增加&emsp;`t207-t246,p32[心中有法]`
 ---
 
 #### 2021.12.31
