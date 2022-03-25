@@ -8,10 +8,13 @@
 
 *希望我的小可爱中考能考高分,耶耶耶 !!!*:kissing_heart::kissing_heart::kissing_heart:
 
+<<<<<<< Updated upstream
 ## Todo ##
 + 增加&emsp;`结构框图`
 + 修正&emsp;`字体颜色调教`
 
+=======
+>>>>>>> Stashed changes
 ## Log ##
 
 #### 2022.03.18
