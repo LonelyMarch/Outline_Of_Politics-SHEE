@@ -8,12 +8,6 @@
 
 *希望我的小可爱中考能考高分,耶耶耶 !!!*:kissing_heart::kissing_heart::kissing_heart:
 
-<<<<<<< Updated upstream
-## Todo ##
-
-
-=======
->>>>>>> Stashed changes
 ## Log ##
 
 #### 2022.03.25
